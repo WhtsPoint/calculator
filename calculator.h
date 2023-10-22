@@ -9,4 +9,11 @@ class Calculator
         int Mul (double, double);
 };
 
+//-----------
+//
+// Some
+// Changes
+//
+//----------
+
 #endif//CALCULATOR_H
